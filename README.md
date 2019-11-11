@@ -5,7 +5,7 @@
 
 
 ## Verification test
-
+##### You can find this test in the master branch
 1. Add code that performs a verification test when the value “-1” is passed to the program as an argument
 (5 points)
 
@@ -58,7 +58,7 @@ The program displays the line and the word that are not in the right place.
 4. Performs a full test of the 10,000 words (10 points)
 
 ## Performance test 
-
+##### You can check this code in the Testing Branch
 5. Place several timers to control what time it takes to do certain tasks. Do printouts to see that info on the
 console (5 points)
 
@@ -104,6 +104,8 @@ Inputs not expected, numbers beyond the limits, etc.(10 points)
 
 
 We tested the code with negative numbers, words that weren't in the dictionary, numbers higher than the length of the dictionary and words with different characters that aren't part of the alphabet.
+
+## Design Principles changes
 
 ###### _For further information contact: [Martina Armas](https://www.linkedin.com/in/martina-armas-793b60157/) or [Vicente Hoyos](https://www.linkedin.com/in/vicente-hoyos-787594124/)_
 
